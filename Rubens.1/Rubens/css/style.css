@@ -1,0 +1,152 @@
+@charset "UTF-8";
+header{
+    display: block;
+    background-color: #0c8a01;
+    width: 100%;
+    right: 20px;
+}
+header img{
+    height: 80px;
+    width: 100px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+}
+h1 p{
+    font-size:50%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffff;
+}
+h4{
+    text-align: center;
+    color: #005fad;
+}
+
+.itemvideo{
+    text-align: center;
+}
+.video{
+    width: 50%;
+}
+.menu a{
+    color:#005fad;
+    text-decoration: none;
+}
+.container{
+    min-height: 90vh;
+    padding: 30px;
+}
+.produtos{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.produto{
+    width: 20%;
+    display: inline-block;
+    margin: 2% 2%;
+    padding: 15px;
+}
+.imagemProduto{
+    height: 250px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size:cover;
+}
+.carroselitem{
+    align-items: center;
+}
+.carrosel{
+    right: 170px;
+    width:50%;
+    
+}
+.carousel-item{
+    
+    height: 250px;
+    width: 100%;
+    margin-bottom: 150px;
+    background-position: center;
+    background-size:cover;
+}
+ 
+
+  
+#btn{
+    color: #00223d;
+    border-color: #00223d;
+}
+#btn:hover{
+    background-color:#00223d;
+    color: #ffff;
+    border-color: #ffff
+    
+}
+.btnn{
+    padding: 0.5em;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: #0c8a01;
+}
+.btnn:hover{
+    padding: 0.5em;
+    box-shadow: 3px 3px 3px #03220077;
+    font-size: 1.5em;
+}
+footer{
+    text-align: center;
+   
+}
+
+#img1{
+    background-image: url(../midia/imagens/fresa-topo-hss-4-cortes-10mm.webp);
+    }
+#img2{
+    background-image: url(../midia/imagens/fresa\ corte\ helicoidal.webp);
+}
+#img3{
+    background-image:url(../midia/imagens/fresa\ metal\ duro\ de\ chanfro.webp);
+}
+#img4{
+    background-image: url(../midia/imagens/fresa\ topo\ esfera.webp);
+}
+#img5{
+    background-image: url(../midia/imagens/serviço\ polia\ poly-V.jpg);
+}
+#img6{
+    background-image: url(../midia/imagens/serviço\ retifica\ de\ fuso.webp);
+}
+#img7{
+    background-image: url(../midia/imagens/serviço\ soldagem\ MIG_MAG.jpg);
+}
+#img8{
+    background-image: url(../midia/imagens/serviço\ soldagem\ MMA.jpg);
+}
+#img9{
+    background-image: url(../midia/imagens/serviço\ soldagem\ TIG.jpg);
+}
+#img10{
+    background-image: url(../midia/imagens/serviço\ usinagem-de-eixo-bucha-e-flanges.jpg);
+}
+#img11{
+    background-image: url(../midia/funcionarios/Pedrinho\ Sales.png);
+    border-radius: 50%;
+    background-color: #00223d;
+}
+#img12{
+    background-image: url(../midia/funcionarios/Marieta\ Amarela.png);
+    border-radius: 50%;
+    background-color: #00223d;
+}
+#img13{
+    background-image: url(../midia/funcionarios/Aline\ Sem\ Rosto.png);
+    border-radius: 50%;
+    background-color: #00223d;
+}
+#img14{
+    background-image: url(../midia/funcionarios/Enzo\ das\ Rosas.png);
+    border-radius: 50%;
+    background-color: #00223d;
+}
