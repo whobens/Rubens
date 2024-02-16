@@ -1,0 +1,145 @@
+@charset "utf-8";
+
+.logo{
+    width: 120px;
+}
+#contrata{
+    text-align: center;
+}
+#btn{
+    border: none;
+    color: #ffff;
+    background-color: #005CAA;
+}
+#btn:hover{
+    border: #005CAA;
+    color: #005CAA;
+    background-color:#ffff;
+}
+
+.carrosel{
+
+    background-color: #005baa4d;
+    min-height: 30vh;
+    padding: 50px;
+}
+.imagem-carrosel{
+    width: 80%;
+    display: inline-block;
+    margin: 1% 10%;
+    padding: 15px;
+}
+.imagem{
+    height: 50px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+}
+.curriculo{
+   
+    padding: 30px;
+    color: #ffff;
+    background-color: #005CAA;
+}
+.pitch{
+    text-align: center;
+}
+h2{
+    width: 100%;
+    padding: 20px;
+    color: #ffff;
+    background-color: #005CAA;
+    text-align: center;
+}
+h3{
+    color: #ffff;
+    background-color: #005CAA;
+}
+
+#section-banners img{
+    height: 500px;
+}
+#section-vendidos .card{
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.container{
+    background-color: #eee;
+    min-height: 6vh;
+    padding: 50px;
+    
+}
+.candidatos-container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.candidato{
+    text-align: center;
+    width: 31%;
+    display: inline-block;
+    margin: 1% 1%;
+    padding: 15px;
+}
+.candidato-imagem{
+    border-radius: 10px;
+    height: 450px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-position: center;
+    background-size: cover;
+    }
+
+
+#card1{
+    color: #ffff;
+    background-color: #005CAA;
+}
+
+footer{
+    padding-top:20px;
+    text-align: center;
+ }
+
+#card2{background-color:#005baa4d;
+}
+h1{
+    text-align: center;
+    color: #005CAA;
+}
+.historia{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+
+/*imagens*/
+#img-1{
+    background-image: url(../midias/fotos_candidatos/LegolasGoncalves.png);
+}
+#img-2{
+    background-image: url(../midias/fotos_candidatos/Daniel.1.png);
+}
+#img-3{
+    background-image: url(../midias/fotos_candidatos/cintia.png);
+}
+#img-4{
+    background-image: url(../midias/fotos_candidatos/julia.png);
+}
+#img-5{
+    background-image: url(../midias/fotos_candidatos/pablo.png);
+}
+#img-6{
+    background-image: url(../midias/fotos_candidatos/roberta.png);
+}
+#img-7{
+    border-radius: 50%;
+    background-image: url(../midias/fotos_candidatos/Legolas.webp);
+}
+#img-8{
+    border-radius: 50%;
+    background-image: url(../midias/fotos_candidatos/daniel.png);
+}
